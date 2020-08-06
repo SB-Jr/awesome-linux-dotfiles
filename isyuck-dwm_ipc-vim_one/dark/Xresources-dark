@@ -1,0 +1,60 @@
+Xft.dpi:   96
+
+st.termname:     st-256color
+st.shell:        /usr/bin/zsh
+
+! st.font:              IBM Plex Mono SemiBold:pixelsize=16;
+st.font:              scientifica:pixelsize=12;
+st.borderpx:          40
+st.cursorshape:       2
+st.cursorthickness:   1
+st.cursorblinkstyle:  0
+st.cursorblinkontype: 0
+st.bold_font:         0
+st.xfps:              120
+st.actionfps:         30
+st.borderless:        0
+st.mouseScrollLines:  1
+st.chscale:           1.1
+st.cwscale:           1.0
+st.blinktimeout:      500
+st.bellvolume:        0
+st.opacity:           255
+
+! special
+*.foreground:   #9da3b0
+*.background:   #282c34
+*.cursorColor:  #dcdfe4
+
+! black
+*.color0:       #282c34
+*.color8:       #282c34
+
+! red
+*.color1:       #e06c75
+*.color9:       #e06c75
+
+! green
+*.color2:       #98c379
+*.color10:      #98c379
+
+! yellow
+*.color3:       #e5c07b
+*.color11:      #e5c07b
+
+! blue
+*.color4:       #61afef
+*.color12:      #61afef
+
+! magenta
+*.color5:       #c678dd
+*.color13:      #c678dd
+
+! cyan
+*.color6:       #56b6c2
+*.color14:      #56b6c2
+
+! white
+*.color7:       #dcdfe4
+*.color15:      #dcdfe4
+
